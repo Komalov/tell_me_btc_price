@@ -1,1 +1,1 @@
-# Print BTC price to the console
+# Print BTC price to system notification
